@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Abdul Rahman  
 ### Frontend Developer @ Mindstreamsoft | React & Next.js Specialist  
 
 ## 🛠️ Tech Stack  
@@ -14,15 +13,7 @@
 - **[Qadam.io](https://qadam.io)** – E-Commerce web application using **Next.js, TypeScript, Tailwind CSS**.
 - **[Canitsm](https://www.canitsm.com)** – IT consulting agency website using the **WIX Studio** platform.
 - **[E-Commerce App](https://drive.google.com/file/d/16FT5uxJK8lh-WmxQF2POvTZRL8p75RGD/view)** – Built with **MERN Stack, Bootstrap**.  
-- **[InnoTech Technologies](https://innotechtechnologies.us)** – Business Website design using **React-vite & Bootstrap**. 
-
-## 📊 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)  
+- **[InnoTech Technologies](https://innotechtechnologies.us)** – Business Website design using **React-vite & Bootstrap**.  
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arahman01/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://havanatech-nine.vercel.app/)

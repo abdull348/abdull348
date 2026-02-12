@@ -1,4 +1,4 @@
-### Frontend Developer @ Mindstreamsoft | React & Next.js Specialist  
+### MERN Stack Developer @ Mindstreamsoft | React & Next.js Specialist  
 
 ## 🛠️ Tech Stack  
 ### **Frontend**  
